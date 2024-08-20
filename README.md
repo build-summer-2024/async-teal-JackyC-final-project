@@ -8,8 +8,8 @@
 ## Progress
 - [x] Picked dataset
 - [x] Defined 10 questions
-- [ ] Answered 10 questions using Pandas
-- [ ] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
+- [x] Answered 10 questions using Pandas
+- [x] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
 - [ ] Prepared presentation slides to present at graduation
 
 ## Questions
@@ -129,5 +129,5 @@
   - Visualization: ![Q9 Visualization](https://example.com/path-to-image-9.png)
 
 - [ ] Question 10: What breed has the most unicolor cats?
-  - Answer: Russian Blue
+  - Answer: Ragdoll
   - Visualization: ![Q10 Visualization](https://example.com/path-to-image-10.png)
