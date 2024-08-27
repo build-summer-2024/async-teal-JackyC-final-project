@@ -13,11 +13,11 @@
 - [ ] Prepared presentation slides to present at graduation
 
 ## Questions
-- [ ] Question 1: What is the average weight of cats?
+- [x] Question 1: What is the average weight of cats?
   - Answer: 6 kg
-  - Visualization: ![Q1 Visualization](https://example.com/path-to-image-1.png)
+  - Visualization: ![Q1 Visualization]![alt text](image.png)
 
-- [ ] Question 2: What is the average weight of every cat breed?
+- [x] Question 2: What is the average weight of every cat breed?
   - Answer: Abyssinian            5.0
             American Shorthair    6.0
             Balinese              5.0
@@ -48,14 +48,14 @@
             Sphynx                5.5
             Tonkinese             5.0
             Turkish Angora        6.0
-  - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
+  - Visualization: ![Q2 Visualization]![alt text](image-1.png)
 
-- [ ] Question 3: What is the average difference in weight between genders?
+- [x] Question 3: What is the average difference in weight between genders?
   - Answer: Female    2.175279
             Male      2.276602
-  - Visualization: ![Q3 Visualization](https://example.com/path-to-image-3.png)
+  - Visualization: ![Q3 Visualization]![alt text](image-2.png)
 
-- [ ] Question 4: What is the oldest age for every cat breed?
+- [x] Question 4: What is the oldest age for every cat breed?
   - Answer: Abyssinian            19
             American Shorthair    19
             Balinese              18
@@ -86,17 +86,17 @@
             Sphynx                19
             Tonkinese             19
             Turkish Angora        19
-  - Visualization: ![Q4 Visualization](https://example.com/path-to-image-4.png)
+  - Visualization: ![Q4 Visualization][alt text](image-10.png)
 
-- [ ] Question 5: The most common color of a cat?
+- [x] Question 5: The most common color of a cat?
   - Answer: Tricolor
-  - Visualization: ![Q5 Visualization](https://example.com/path-to-image-5.png)
+  - Visualization: ![Q5 Visualization]![alt text](image-4.png)
 
-- [ ] Question 6: The most sourced breed of cat?
+- [x] Question 6: The most sourced breed of cat?
   - Answer: Ragdoll
-  - Visualization: ![Q6 Visualization](https://example.com/path-to-image-6.png)
+  - Visualization: ![Q6 Visualization]![alt text](image-5.png)
 
-- [ ] Question 7: Does the average weight go up with age?
+- [x] Question 7: Does the average weight go up with age?
   - Answer: No, The Average weight stays at around 6 or 5.5 consistently despite age
   1     5.0
   2     6.0
@@ -117,17 +117,17 @@
   17    5.0
   18    6.0
   19    6.0
-  - Visualization: ![Q7 Visualization](https://example.com/path-to-image-7.png)
+  - Visualization: ![Q7 Visualization]![alt text](image-6.png)
 
-- [ ] Question 8: Do Bicolor and Tricolor cats weigh more on average?
+- [x] Question 8: Do Bicolor and Tricolor cats weigh more on average?
   - Answer: No, Bicolor and Tricolor cats both weight around 5 kgs on average, which is below average compared to other colored cats.
 
-  - Visualization: ![Q8 Visualization](https://example.com/path-to-image-8.png)
+  - Visualization: ![Q8 Visualization]![alt text](image-7.png)
 
-- [ ] Question 9: What breed do Bicolor/Tricolor cats belong to?
+- [x] Question 9: What breed do Bicolor/Tricolor cats belong to?
   - Answer: Bicolor - American Shorthair (9 Instances), Tricolor - Scottish Fold (6 Instances)
-  - Visualization: ![Q9 Visualization](https://example.com/path-to-image-9.png)
+  - Visualization: ![Q9 Visualization]![alt text](image-8.png)
 
-- [ ] Question 10: What breed has the most unicolor cats?
+- [x] Question 10: What breed has the most unicolor cats?
   - Answer: Ragdoll
-  - Visualization: ![Q10 Visualization](https://example.com/path-to-image-10.png)
+  - Visualization: ![Q10 Visualization]![alt text](image-9.png)
